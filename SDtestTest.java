@@ -5,7 +5,7 @@ import org.junit.*;
 public class SDtestTest {
     @Test 
     public void subtract(){
-        assertEquals(3, SDtest.minus(5, 1));
+        assertEquals(3, SDtest.minus(5, 2));
     }
     
 }
